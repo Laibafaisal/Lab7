@@ -1,0 +1,16 @@
+C:\Users\KH Faisal\source\repos\Lab7Q3\bin\Debug\net6.0-windows\Lab7Q3.exe
+C:\Users\KH Faisal\source\repos\Lab7Q3\bin\Debug\net6.0-windows\Lab7Q3.deps.json
+C:\Users\KH Faisal\source\repos\Lab7Q3\bin\Debug\net6.0-windows\Lab7Q3.runtimeconfig.json
+C:\Users\KH Faisal\source\repos\Lab7Q3\bin\Debug\net6.0-windows\Lab7Q3.dll
+C:\Users\KH Faisal\source\repos\Lab7Q3\bin\Debug\net6.0-windows\Lab7Q3.pdb
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.Form1.resources
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.csproj.GenerateResource.cache
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.AssemblyInfoInputs.cache
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.AssemblyInfo.cs
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.dll
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\refint\Lab7Q3.dll
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.pdb
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\Lab7Q3.genruntimeconfig.cache
+C:\Users\KH Faisal\source\repos\Lab7Q3\obj\Debug\net6.0-windows\ref\Lab7Q3.dll
